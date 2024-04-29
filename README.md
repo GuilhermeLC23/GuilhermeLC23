@@ -9,7 +9,7 @@ Olá me chamo Guilherme e sou um programador FullSatck e Front-end, atualmente e
 
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram-logo"/> <a href="https://www.linkedin.com/in/guilherme-link-corbellini-49686b264/" target="_blank">Clique aqui</a>
 
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo" /> <a href="https://www.instagram.com/guilherme_link_corbellini/" target="_blank">Clique aqui</a>
+- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo" /> <a href="https://www.instagram.com/glc_dev_developer/" target="_blank">Clique aqui</a>
 
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-logo" />  <a href="mail.google.com">guigolinkcorbellini23@gmail.com</a>
 
